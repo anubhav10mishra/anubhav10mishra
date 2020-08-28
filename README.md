@@ -17,7 +17,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhav10mishra&show_icons=true" alt="anubhav10mishra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhav10mishra&show_icons=true" alt="anubhav10mishra" /></p>>
 
 
 
