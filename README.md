@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tenserflow,Keras**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anubhav10mishra](https://github.com/anubhav10mishra)
+- 👨‍💻 All of my projects are available at anubhav10mishra(https://github.com/anubhav10mishra)
 
 - 💬 Ask me about **Machine Learning And Statistic**
 
