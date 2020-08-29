@@ -23,8 +23,12 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/linkedin.com/in/anubhav-mishra-48a12796" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/anubhav-mishra-48a12796" height="30" width="30" /></a>
+  
 <a href="https://kaggle.com/anubhav10mishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="anubhav10mishra" height="30" width="30" /></a>
+  
 <a href="https://fb.com/anubhav10mishra@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anubhav10mishra@gmail.com" height="30" width="30" /></a>
+  
 <a href="https://dribbble.com/anubhav mishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="anubhav mishra" height="30" width="30" /></a>
+  
 <a href="https://www.behance.net/anubhav mishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="anubhav mishra" height="30" width="30" /></a>
 </p>
