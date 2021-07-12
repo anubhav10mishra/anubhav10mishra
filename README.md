@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anubhav Mishra</h1>
-<h3 align="center">Data Science Enthusiast|Business Intelligence|Machine Learning| NLP|</h3>
+<h3 align="center">Artificial Intelligence Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav10mishra" alt="anubhav10mishra" /> </p>
 
