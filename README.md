@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [anubhav10mishra](https://github.com/anubhav10mishra)
 
-- 💬 Ask me about **Machine Learning And Statistics**
+- 💬 Ask me about **Statistics,Machine Learning,Deep Learning,Data Visualization**
 
 - 📫 How to reach me **anubhav10mishra@gmail.com**
 
