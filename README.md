@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav10mishra" alt="anubhav10mishra" /> </p>
 
-- 🌱 I’m currently learning **Tenserflow,Keras**
+- 🌱 I’m currently exploring **Large language models**
 
 - 👨‍💻 All of my projects are available at [anubhav10mishra](https://github.com/anubhav10mishra)
 
