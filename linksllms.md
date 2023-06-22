@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=ywT-5yKDtDg&t=1573s
+https://www.youtube.com/watch?v=ywT-5yKDtDg
+https://www.youtube.com/watch?v=eqOfr4AGLk8&t=26s
+https://www.youtube.com/playlist?list=PLIUOU7oqGTLgBf0X_KzRlsqyM2Cs7Dxp9
+https://www.youtube.com/watch?v=9G05qybShv8
+https://python.langchain.com/docs/additional_resources/youtube
+https://www.youtube.com/watch?v=riXpu1tHzl0
+https://github.com/chris-alexiuk/CanadianBillExplainer
+https://github.com/pinecone-io/examples/blob/master/generation/langchain/handbook/xx-langchain-chunking.ipynb
+https://github.com/imartinez/privateGPT
+https://www.twilio.com/blog/qa-over-docs-bot-langchain-python
